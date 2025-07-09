@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @Surya99941
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning OpenGl and computer graphics
-- 📫 How to reach me suryaprakash99941@gmail.com
+# 👋 Hi, I’m Surya (@Surya99941)
 
-<!---
-Surya99941/Surya99941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a passionate developer with experience in:
+
+- 🧠 **Languages & Frameworks**: C, Ruby, Go, Rails
+- 🗃️ **Databases**: PostgreSQL, Redis
+- 🕹️ **Game Development**: Unity, OpenGL (currently learning)
+- 🐳 **DevOps Tools**: Docker
+
+## 🎯 Interests
+- Game Development & Graphics Programming  
+- Exploring rendering pipelines and low-level graphics APIs  
+- Building scalable backend systems
+
+## 🌱 Currently Learning
+- OpenGL
+- Computer Graphics fundamentals
+
+## 📂 Projects
+Check out my repositories for game experiments, backend systems, and more cool stuff I’m working on!
+
+---
+
+🔧 Always building. Always learning.
