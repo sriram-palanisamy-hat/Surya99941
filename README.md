@@ -1,25 +1,28 @@
-# 👋 Hi, I’m Surya (@Surya99941)
+# Hi, I'm Surya Prakash
 
-## 🚀 About Me
-I'm a passionate developer with experience in:
+I'm a developer with experience in:
 
-- 🧠 **Languages & Frameworks**: C, Ruby, Go, Rails
-- 🗃️ **Databases**: PostgreSQL, Redis
-- 🕹️ **Game Development**: Unity, OpenGL (currently learning)
-- 🐳 **DevOps Tools**: Docker
+- C
+- Ruby on Rails
+- PostgreSQL
+- Unity
+- Docker
+- Go
+- Redis
 
-## 🎯 Interests
-- Game Development & Graphics Programming  
-- Exploring rendering pipelines and low-level graphics APIs  
-- Building scalable backend systems
+I'm currently exploring OpenGL and computer graphics, and I'm deeply interested in game development.
 
-## 🌱 Currently Learning
+## Featured Projects
+
+- [MeetingKit](https://github.com/Surya99941/MeetingKit) – A collaboration and meeting platform.
+- [SYCL Financial Derivatives](https://github.com/Surya99941/SYCL-financial-derivatives) – Financial derivative computation using SYCL.
+- [OS-PGMS](https://github.com/Surya99941/OS-PGMS) – Operating systems concepts and practicals.
+- [Renderer](https://github.com/Surya99941/Renderer) – A basic renderer implemented using OpenGL.
+- [My Profile Repository](https://github.com/Surya99941/Surya99941) – GitHub profile and personal documentation.
+
+## What I'm Learning
+
 - OpenGL
-- Computer Graphics fundamentals
+- Computer Graphics
 
-## 📂 Projects
-Check out my repositories for game experiments, backend systems, and more cool stuff I’m working on!
-
----
-
-🔧 Always building. Always learning.
+Thanks for visiting my profile!
